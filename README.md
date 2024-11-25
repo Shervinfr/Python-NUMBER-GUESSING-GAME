@@ -1,6 +1,7 @@
 Python Number Guessing Game
 
 Welcome to the Python Number Guessing Game! This is a fun and simple program where you try to guess a randomly generated number between a specified range.
+
 🎯 How the Game Works
 
     The program generates a random number between 1 and 100 (default range).
